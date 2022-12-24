@@ -1,1 +1,10 @@
-node_modules
+node_modules/
+
+.idea/
+.fleet/
+.vscode/
+
+yarn.lock
+npm-lock.json
+
+.env
